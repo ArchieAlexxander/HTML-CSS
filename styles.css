@@ -54,6 +54,10 @@ li {
     width: 50%;
 }
 
+a {
+    color: white;
+}
+
 /* Cake Page */
 
 .cake-text {
